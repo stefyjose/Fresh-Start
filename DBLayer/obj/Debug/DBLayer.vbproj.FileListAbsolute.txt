@@ -1,0 +1,9 @@
+D:\Reminder\Reminder\DBLayer\bin\Debug\DBLayer.dll
+D:\Reminder\Reminder\DBLayer\bin\Debug\DBLayer.pdb
+D:\Reminder\Reminder\DBLayer\bin\Debug\DBLayer.xml
+D:\Reminder\Reminder\DBLayer\obj\Debug\DBLayer.vbprojResolveAssemblyReference.cache
+D:\Reminder\Reminder\DBLayer\obj\Debug\DBLayer.Resources.resources
+D:\Reminder\Reminder\DBLayer\obj\Debug\DBLayer.vbproj.GenerateResource.Cache
+D:\Reminder\Reminder\DBLayer\obj\Debug\DBLayer.dll
+D:\Reminder\Reminder\DBLayer\obj\Debug\DBLayer.xml
+D:\Reminder\Reminder\DBLayer\obj\Debug\DBLayer.pdb
